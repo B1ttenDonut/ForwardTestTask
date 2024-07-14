@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(35,18): warning C4244: инициализация: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(35,18): warning C4244:         with
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(35,18): warning C4244:         [
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(35,18): warning C4244:             _Ty=int
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(35,18): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(36,18): warning C4244: инициализация: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(36,18): warning C4244:         with
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(36,18): warning C4244:         [
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(36,18): warning C4244:             _Ty=int
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(36,18): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\BittenDonut\source\repos\Engine_Stand\Engine_Stand\Engine.h(37,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+  Engine_Stand.vcxproj -> C:\Users\BittenDonut\source\repos\Engine_Stand\x64\Debug\Engine_Stand.exe
